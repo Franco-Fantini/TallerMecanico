@@ -1,0 +1,6 @@
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\bin\Release\MiLibreria.dll
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\bin\Release\MiLibreria.pdb
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\obj\Release\MiLibreria.csprojAssemblyReference.cache
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\obj\Release\MiLibreria.csproj.CoreCompileInputs.cache
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\obj\Release\MiLibreria.dll
+C:\Users\Cofra\source\repos\TallerMecanico\MiLibreria\obj\Release\MiLibreria.pdb

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMecanico", "TallerMecanico\TallerMecanico.csproj", "{ABB1B8FB-3A8B-4129-833A-A674FAEFDA12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiLibreria", "MiLibreria\MiLibreria.csproj", "{A4895640-2E0A-44AC-BB14-90D5A21B4746}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1.01", "Setup1.01\Setup1.01.vdproj", "{FAEB81F7-BCB2-4301-BD48-4CB0FF4D5ECC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB1B8FB-3A8B-4129-833A-A674FAEFDA12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABB1B8FB-3A8B-4129-833A-A674FAEFDA12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABB1B8FB-3A8B-4129-833A-A674FAEFDA12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABB1B8FB-3A8B-4129-833A-A674FAEFDA12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4895640-2E0A-44AC-BB14-90D5A21B4746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4895640-2E0A-44AC-BB14-90D5A21B4746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4895640-2E0A-44AC-BB14-90D5A21B4746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4895640-2E0A-44AC-BB14-90D5A21B4746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAEB81F7-BCB2-4301-BD48-4CB0FF4D5ECC}.Debug|Any CPU.ActiveCfg = Debug
+		{FAEB81F7-BCB2-4301-BD48-4CB0FF4D5ECC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEADCA61-BCA5-43DC-8ADE-79F80B7DF269}
+	EndGlobalSection
+EndGlobal
